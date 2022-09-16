@@ -1,0 +1,43 @@
+h1{
+    color: blue;
+    font: 24px;
+    font-style: italic ;
+    font-weight: bold;
+   
+    
+}
+h2{
+    color:   #0000ff;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+h3{
+    color: teal;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+p{
+    color:  #4D4D4D  ;
+    border:2px solid #8A2BE2;
+      border-radius: 25px;
+
+}
+
+a{
+    color:  #8A2BE2;
+    text-decoration: none;
+}
+ header {
+    
+      font-weight: bold;
+      background-image: url(/img/shutterstock_1487069801-1.jpg); 
+      background-position: left;
+    
+     }
+   
+
+ img{
+    width: 50vw;
+ }
