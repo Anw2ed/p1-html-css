@@ -1,0 +1,30 @@
+.box1{
+    width: 200px;
+    height: 200px;
+  background-color: rgb(0, 38, 255);}
+
+
+  .box2{
+    width: 200px;
+    height: 200px;
+  background-color: rgb(0, 0, 0);}
+
+
+  .box3{
+
+    width: 200px;
+    height: 200px;
+  background-color: rgb(237, 75, 75);}
+
+  .box4{
+    width: 200px;
+    height: 200px;
+  background-color: rgb(0, 255, 119);}
+
+
+.boxhoofd{
+    display: flex;
+    justify-content: space-between;
+   flex-direction: row;
+   flex-direction: row-reverse;
+}
