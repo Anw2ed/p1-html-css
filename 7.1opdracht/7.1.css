@@ -1,0 +1,103 @@
+nav{
+    background-color: brown;
+    height: 100px;
+    border: solid
+    
+}
+   
+.geel{
+    border: solid;
+    height: 230px;
+    background-color: yellow;
+}
+
+.oranje{
+    border: solid;
+    height: 230px;
+    background-color: orange;
+}
+
+.green{
+    border: solid;
+    height: 230px;
+    background-color: green;
+}
+
+/*voor tablet*/
+    @media only screen and (min-width: 768px) and (max-width: 1023px) {
+        nav {
+          background-color: rgb(211, 83, 117);
+        }
+      }
+
+      
+      @media only screen and (min-width: 768px) and (max-width: 1023px) {
+        .geel {
+          background-color: rgb(198, 49, 89);
+        }
+      }
+ 
+
+      @media only screen and (min-width: 768px) and (max-width: 1023px) {
+        .oranje {
+          background-color: rgb(26, 65, 224);
+        }
+      }
+
+
+
+      @media only screen and (min-width: 768px) and (max-width: 1023px) {
+        .green {
+          background-color: rgb(76, 92, 187);
+        } }
+
+       /*voor telefoon*/
+       
+        @media only screen and (max-width: 767px)  {
+            nav { 
+              background-color: rgb(97, 64, 204);
+             
+            }
+            
+          }
+          
+          @media only screen and (max-width: 767px)  {
+            .geel { 
+              background-color: rgb(115, 203, 225);
+             
+            }
+            
+          }
+          
+          @media only screen and (max-width: 767px)  {
+            .oranje { 
+              background-color: rgb(207, 35, 179);
+             
+            }
+            
+          }
+          
+          @media only screen and (max-width: 767px)  {
+            
+            .green { 
+              background-color: rgb(20, 16, 37);
+             
+            }
+            
+          }
+
+          
+
+@media only screen and (max-width:767px) { 
+    .div{ width:20px; height:20px;
+        background-color: rgb(255, 255, 255);
+        display: flex;
+        margin-left: auto 
+       
+      }
+    }
+
+
+
+    
+
